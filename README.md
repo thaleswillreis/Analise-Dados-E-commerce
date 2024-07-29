@@ -2,7 +2,7 @@
 
 This project is a demonstration of analyzing a database using SQL language for queries inserted within Python codes. This database is available on the **Kaggle¹** website under the name **E-commerce dataset by Olist (SQLite)**
 
-In this project, I sought to use SQL queries within Python code, to simulate the use of advanced queries, to assist in the analysis of a real database, instead of using Python commands using the pandas library, as is normally done. The Seaborn and Matplotlib libraries were used to generate the graphs, while the Folium library was used to generate the heat map, containing a visual analysis of the geographic distribution of the database data.
+In this project, I sought to use SQL queries within Python code to simulate the use of advanced queries, to assist in the analysis of a real database, instead of using Python commands using the pandas library, as is normally done. The Seaborn and Matplotlib libraries were used to generate the graphs, while the Folium library was used to generate the heat map, containing a visual analysis of the geographic distribution of the database data.
 
 ## Technologies Used
 

@@ -2,7 +2,7 @@
 
 Esse projeto é uma demonstração da análise de uma base de dados usando linguagem SQL para consultas inseridas dentro dos códigos Python. Essa base de dados está disponível no site **Kaggle¹** com o nome de **E-commerce dataset by Olist (SQLite)**
 
-Nesse projeto, busquei utilizar consultas SQL dentro do código Python, para simular o uso de consultas avançadas, para auxiliar na análise de uma base de dados real, ao invés de usar comandos Python usando a biblioteca pandas, como normalmente é feito. As bibliotecas Seaborn e Matplotlib foram utilizadas para gerar os gráficos, já a biblioteca Folium foi usada para gerar o mapa de calor, contendo uma análise visual da distribuição geográfica dos dados da base de dados.
+Nesse projeto, busquei utilizar consultas SQL dentro do código Python para simular o uso de consultas avançadas, para auxiliar na análise de uma base de dados real, ao invés de usar comandos Python usando a biblioteca pandas, como normalmente é feito. As bibliotecas Seaborn e Matplotlib foram utilizadas para gerar os gráficos, já a biblioteca Folium foi usada para gerar o mapa de calor, contendo uma análise visual da distribuição geográfica dos dados da base de dados.
 
 ## Tecnologias Utilizadas
 
